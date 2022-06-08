@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_10.0"
+export FOX_BRANCH="fox_11.0"
 export DT_LINK="https://github.com/rio004/twrp_device_samsung_m51.git"
 
 export DEVICE="m51"
